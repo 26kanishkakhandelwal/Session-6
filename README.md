@@ -1,22 +1,174 @@
-# Session 06: Cursor 
+# 🐍 Session 6 — Python Programming
 
-## Overview
-This directory contains the classwork (CW) and homework (HW) deliverables for Session 06. The primary focus was exploring AI-assisted development using the **Cursor AI editor**, specifically safe code refactoring, strict output verification, and configuring persistent AI rules across multiple files.
+Welcome to **Session 6** of my Python programming journey.
 
-## Objectives Achieved
-1. **AI Mode Exploration:** Differentiated between Cursor's "Understand-only" (Chat) mode for logic analysis and "Inline Edit" mode for rapid code refactoring.
-2. **Safe Code Refactoring:** Cleaned up `messy_report.py`, `factorial.py`, and `largest.py` by utilizing AI to implement descriptive naming, reusable functions, and f-strings without altering core functionality.
-3. **Strict Output Verification:** Ensured the refactored code output identically matched the original baseline scripts character-for-character to guarantee system stability.
-4. **Custom AI Rules Enforcement:** Extended Cursor's `.mdc` rule engine to 8 strict Python coding standards (including forced type hints and replacing `while` loops with `for` loops), successfully verifying the AI's adherence during multi-file edits.
+This repository contains the programs, exercises, and practical work completed during this session. The main focus is on strengthening programming fundamentals through hands-on implementation and problem solving.
 
-## Repository Contents
+---
 
-### Source Code
-* **`messy_report.py`**: Refactored grading script.
-* **`factorial.py` & `largest.py`**: Refactored homework scripts demonstrating rule adherence.
+## 📌 About This Repository
 
-### Documentation & Evidence
-* **`original_output.txt` / `HW/original_largest_output.txt`**: Baseline terminal outputs used as control references.
+This session is a part of my ongoing learning process where I am building my understanding of Python by writing and testing programs myself.
 
-### Configuration
-* **`.cursor/rules/python-standards.mdc`**: Persistent rules file dictating coding standards for this project.
+Instead of only learning concepts theoretically, I am using practical exercises to understand how programming logic works in real code.
+
+---
+
+## 🧠 What I'm Practicing
+
+The programs in this repository help me practice areas such as:
+
+* 🐍 Python programming fundamentals
+* ⌨️ Taking input and displaying output
+* 🔢 Working with values and variables
+* 🔀 Applying programming logic
+* 🔁 Repetition and iteration
+* 🧩 Breaking problems into smaller steps
+* 🧠 Logical and computational thinking
+* 📝 Solving practice-based programming questions
+
+---
+
+## 🔄 My Problem-Solving Process
+
+For each problem, I try to follow a simple approach:
+
+```text
+Understand the Problem
+        ↓
+Identify the Required Logic
+        ↓
+Break It Into Steps
+        ↓
+Write the Python Code
+        ↓
+Run & Test
+        ↓
+Find Errors
+        ↓
+Improve the Solution
+```
+
+This helps me focus not only on the final output, but also on understanding the logic behind the program.
+
+---
+
+## 📂 Repository
+
+```text
+Session-6/
+│
+├── 📄 Python Programs
+├── 📁 Practice / Exercises
+│
+└── 📄 README.md
+```
+
+The contents and structure may expand as more practice programs are added.
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/26kanishkakhandelwal/Session-6.git
+```
+
+### 2. Open the project
+
+```bash
+cd Session-6
+```
+
+### 3. Run a Python file
+
+```bash
+python filename.py
+```
+
+If your system uses `python3`:
+
+```bash
+python3 filename.py
+```
+
+---
+
+## 🛠️ Tools Used
+
+| Tool       | Purpose                          |
+| ---------- | -------------------------------- |
+| 🐍 Python  | Programming                      |
+| 💻 VS Code | Writing and testing code         |
+| 🔗 Git     | Version control                  |
+| 🐙 GitHub  | Storing and managing the project |
+
+---
+
+## 🎯 Learning Goals
+
+Through these sessions, I am working towards:
+
+* Building strong Python fundamentals
+* Improving logical thinking
+* Becoming better at breaking down problems
+* Writing cleaner and more understandable code
+* Learning to debug independently
+* Developing consistent programming habits
+* Preparing a strong foundation for Data Structures & Algorithms
+
+---
+
+## 📈 My Learning Journey
+
+This repository is one part of a larger progression:
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Make Mistakes
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Build
+```
+
+Every program doesn't have to be perfect.
+
+Every program just needs to teach me something.
+
+---
+
+## 👩‍💻 Author
+
+### Kanishka Khandelwal
+
+**B.Tech CSE Student**
+**JECRC University**
+
+I'm currently exploring programming, web development, and problem solving while continuously building my technical skills through practical projects and coding exercises.
+
+### Connect With Me
+
+**GitHub:**
+https://github.com/26kanishkakhandelwal
+
+**LinkedIn:**
+https://www.linkedin.com/in/kanishka-khandelwal-32662b310/
+
+---
+
+## ⭐ Keep Learning. Keep Building.
+
+> **Code is learned by writing it, understanding it, breaking it, and writing it again.**
+
+### — Kanishka Khandelwal
+
